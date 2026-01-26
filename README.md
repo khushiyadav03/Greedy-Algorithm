@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1834-single-threaded-cpu) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2706-buy-two-chocolates](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2706-buy-two-chocolates) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
 | ------- |
