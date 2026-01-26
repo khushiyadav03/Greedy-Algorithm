@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1834-single-threaded-cpu) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2706-buy-two-chocolates](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1710-maximum-units-on-a-truck) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2706-buy-two-chocolates](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1834-single-threaded-cpu) |
+| [2706-buy-two-chocolates](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2706-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
