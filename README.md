@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1834-single-threaded-cpu) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1710-maximum-units-on-a-truck) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
