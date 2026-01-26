@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0055-jump-game) |
+| [0169-majority-element](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0169-majority-element) |
 | [0860-lemonade-change](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0860-lemonade-change) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1710-maximum-units-on-a-truck) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0169-majority-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1834-single-threaded-cpu) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0169-majority-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -51,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1346-check-if-n-and-its-double-exist) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
