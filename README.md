@@ -67,9 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
