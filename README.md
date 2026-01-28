@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0169-majority-element) |
 | [0860-lemonade-change](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0860-lemonade-change) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1710-maximum-units-on-a-truck) |
