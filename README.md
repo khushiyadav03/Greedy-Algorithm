@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0169-majority-element) |
+| [0682-baseball-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0860-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
