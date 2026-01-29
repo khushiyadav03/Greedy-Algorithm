@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0682-baseball-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0860-lemonade-change) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0860-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushiyadav03/Greedy-Algorithm/tree/master/1710-maximum-units-on-a-truck) |
